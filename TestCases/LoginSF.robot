@@ -6,7 +6,7 @@ Suite Teardown                End suite
 
 *** Test Cases ***
 Login to SFDC 
-    [Tags]    Login in SFDC Successfully
+    [Tags]       Test
     Login
 
 
