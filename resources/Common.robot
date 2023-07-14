@@ -14,7 +14,7 @@ ${username}
 ${password}               
 ${french_un}
 ${french_pw}  
-${login_url}              https://telus--staging.my.salesforce.com/            # Salesforce instance. NOTE: Should be overwritten in CRT variables
+${login_url}              https://login.salesforce.com/           # Salesforce instance. NOTE: Should be overwritten in CRT variables
 ${home_url}               ${login_url}/lightning/page/home
 ${Production}             https://telus.my.salesforce.com
 ${home_url1}              ${Production}/lightning/page/home
